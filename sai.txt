@@ -1,8 +1,7 @@
-<<<<<<< HEAD
+
 this is sai file
  and it was done in sai branch 
-=======
+
 this is sai file 
 
 dont touch it and it was pushing by main branch
->>>>>>> main
